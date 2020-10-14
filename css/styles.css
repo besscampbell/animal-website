@@ -1,0 +1,28 @@
+h1 {
+  font-size: 40px;
+  font-weight: normal;
+  font-family: cursive;
+  text-align: center;
+}
+
+.dogs {
+  width: 33.33%;
+  float: left;
+  padding: 10px;
+  height: 300px;
+  box-sizing: border-box;
+  color: olive;
+}
+
+.pets{
+  margin: auto;
+  width: 45%;
+  height: auto;
+  display: block;
+}
+
+.row {
+  content: " ";
+  display: table;
+  clear: both;
+}
